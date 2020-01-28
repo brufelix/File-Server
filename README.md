@@ -1,7 +1,7 @@
 # File-Server
 > Servidor de arquivos, utilizando a biblioteca sockets.
 
-- **Comand**
+- **Comands**
   - List
   - remove
   - put
